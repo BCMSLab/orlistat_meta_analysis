@@ -1,4 +1,4 @@
-### Capstone Title: Meta-analysis of the Effect of Orlistat on The Body Mass Index in Obese Subjects
+Meta-analysis of the Effect of Orlistat on The Body Mass Index in Obese Subjects
 
 ### Overview
 
@@ -21,4 +21,4 @@ Participants would be able to
 ### Links
 
 - Source code ([GitHub repo](https://github.com/MahShaaban/orlistat_meta_analysis))
-- Final report (coming soon)
+- Preprint ([medRxiv](https://www.mahshaaban.com/publications/16075-meta-analysis-of-the-effect-of-orlistat-on-the-body-mass-index-in-obese-subjects))
